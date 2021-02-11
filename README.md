@@ -1,5 +1,7 @@
 ### Hi there 👋
- 🔭 I’m currently working on HTML,CSS and Javascript
+🔭 I’m currently working on HTML,CSS,Javascript,SQL, C#,ASP.Net
+ 🌱 I’m currently learning  React, ETP Development,ETP testing
+  📫 How to reach me: cecilia.vinita@gmail.com
 
 
 <!--
